@@ -24,8 +24,6 @@ namespace SE2FpsCounter
 
         }
 
-        static int test = 0;
-
         protected override void Update()
         {
             base.Update();
